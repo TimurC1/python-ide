@@ -10,7 +10,8 @@
 ![image](doc/img/ide/code.png)
 ![image](doc/img/ide/complete.png)
 ![image](doc/img/ide/run.png)
-## Установка на сервер фронтенда
+## Установка на сервер
+### Фронтенд
 ``` bash
 # Склонируйте репозиторий
 git clone https://github.com/TimurC1/python-ide
@@ -27,7 +28,7 @@ npm run dev
 # Компиляция
 npm run build 
 ```
-### Установка на сервер бэкенда
+### Бэкенд
 ```
 # Зайдите в папку backend
 cd backend
