@@ -40,6 +40,7 @@ pip install -r requirements.txt
 python server.py --port=$ПОРТ, КОТОРЫЙ ВЫ ЖЕЛАЕТЕ ИСПОЛЬЗОВАТЬ$
 ```
 Убедитесь, что у вас открыт порт, который вы указали в последней команде.
+python-ide будет доступен по адресу http://$ВАШ_IP$:$ПОРТ$/
 
 © Исходный код https://github.com/vimior
 
