@@ -29,7 +29,7 @@ npm run dev
 npm run build 
 ```
 ### Бэкенд
-```
+``` bash
 # Зайдите в папку backend
 cd backend
 
