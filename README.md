@@ -1,10 +1,9 @@
 # python-ide
-Перевод репозитория от vimior
+⚡ Простая и функциональная веб-IDE для разработки на Python. Перевод и адаптация репозитория vimior
 
 ## Особенности
-Для проекта использовался Python，Tornado，VueJS и WebSocket.
-
-Проект состоит из бэкенда на Python, Tornado и фронтенда на VueJS и WebSocket.
+- Для проекта использовался Python, Tornado，VueJS и WebSocket.
+- Проект состоит из бэкенда на Python, Tornado и фронтенда на VueJS и WebSocket.
 ## Функционал
 - Создание проектов, файлов, папок, дополнений и изменений
 - Поддержка Python без фреймворков.
@@ -43,5 +42,6 @@ python server.py --port=$ПОРТ, КОТОРЫЙ ВЫ ЖЕЛАЕТЕ ИСПОЛ
 ```
 Убедитесь, что у вас открыт порт, который вы указали в последней команде.
 
-© github.com/vimior
-© Перевод и улучшение README.md github.com/timurc1
+© https://github.com/vimior
+
+© Перевод и улучшение README.md https://github.com/timurc1
